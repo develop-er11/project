@@ -1,0 +1,416 @@
+.index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .overlap-wrapper {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 3829px;
+  width: 1535px;
+}
+
+.index .overlap {
+  height: 3829px;
+  position: relative;
+}
+
+.index .home-page {
+  background-color: #222831;
+  height: 859px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1535px;
+}
+
+.index .overlap-group {
+  height: 1319px;
+  position: relative;
+  top: -313px;
+  width: 1540px;
+}
+
+.index .div {
+  height: 1319px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1540px;
+}
+
+.index .ellipse {
+  background-color: #00000080;
+  border-radius: 174px/12px;
+  height: 24px;
+  left: 984px;
+  position: absolute;
+  top: 956px;
+  width: 348px;
+}
+
+.index .doodles-mixed-round {
+  height: 514px;
+  left: 945px;
+  position: absolute;
+  top: 485px;
+  width: 514px;
+}
+
+.index .overlap-group-2 {
+  height: 455px;
+  left: 22px;
+  position: relative;
+  top: 28px;
+  width: 460px;
+}
+
+.index .glasses {
+  height: 13px;
+  left: 124px;
+  position: absolute;
+  top: 380px;
+  width: 27px;
+}
+
+.index .img {
+  height: 13px;
+  left: 246px;
+  position: absolute;
+  top: 153px;
+  width: 27px;
+}
+
+.index .keyboard {
+  height: 58px;
+  left: 127px;
+  position: absolute;
+  top: 79px;
+  width: 68px;
+}
+
+.index .food {
+  height: 35px;
+  left: 164px;
+  position: absolute;
+  top: 307px;
+  width: 48px;
+}
+
+.index .clock {
+  height: 29px;
+  left: 394px;
+  position: absolute;
+  top: 295px;
+  width: 27px;
+}
+
+.index .python {
+  height: 105px;
+  left: 289px;
+  position: absolute;
+  top: 138px;
+  width: 124px;
+}
+
+.index .javascript-init {
+  height: 41px;
+  left: 198px;
+  position: absolute;
+  top: 223px;
+  width: 45px;
+}
+
+.index .html {
+  height: 39px;
+  left: 275px;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.index .react {
+  height: 87px;
+  left: 15px;
+  position: absolute;
+  top: 256px;
+  width: 109px;
+}
+
+.index .node {
+  height: 83px;
+  left: 33px;
+  position: absolute;
+  top: 38px;
+  width: 120px;
+}
+
+.index .css {
+  height: 35px;
+  left: 185px;
+  position: absolute;
+  top: 420px;
+  width: 73px;
+}
+
+.index .expres {
+  height: 45px;
+  left: 238px;
+  position: absolute;
+  top: 360px;
+  width: 136px;
+}
+
+.index .macbook {
+  height: 35px;
+  left: 28px;
+  position: absolute;
+  top: 171px;
+  width: 42px;
+}
+
+.index .vector {
+  height: 29px;
+  left: 187px;
+  position: absolute;
+  top: 16px;
+  width: 39px;
+}
+
+.index .vector-2 {
+  height: 29px;
+  left: 421px;
+  position: absolute;
+  top: 229px;
+  width: 39px;
+}
+
+.index .lightbulb {
+  height: 56px;
+  left: 371px;
+  position: absolute;
+  top: 90px;
+  width: 36px;
+}
+
+.index .apis {
+  height: 42px;
+  left: 112px;
+  position: absolute;
+  top: 204px;
+  width: 39px;
+}
+
+.index .aws {
+  height: 38px;
+  left: 276px;
+  position: absolute;
+  top: 78px;
+  width: 39px;
+}
+
+.index .goland {
+  height: 59px;
+  left: 269px;
+  position: absolute;
+  top: 257px;
+  width: 77px;
+}
+
+.index .gutiar {
+  height: 47px;
+  left: 186px;
+  position: absolute;
+  top: 147px;
+  width: 22px;
+}
+
+.index .SPRINKLES {
+  height: 442px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 445px;
+}
+
+.index .line {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 445px;
+  width: 1540px;
+}
+
+.index .computer-login-pana {
+  height: 1319px;
+  left: 294px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 946px;
+}
+
+.index .vector-3 {
+  height: 235px;
+  left: 115px;
+  position: absolute;
+  top: 651px;
+  width: 123px;
+}
+
+.index .about-me-page {
+  background-color: #222831;
+  height: 889px;
+  left: 0;
+  position: absolute;
+  top: 798px;
+  width: 1535px;
+}
+
+.index .overlap-2 {
+  height: 634px;
+  left: 573px;
+  position: absolute;
+  top: 204px;
+  width: 860px;
+}
+
+.index .ellipse-2 {
+  background-color: #00000080;
+  border-radius: 174px/12px;
+  height: 24px;
+  left: 296px;
+  position: absolute;
+  top: 597px;
+  width: 348px;
+}
+
+.index .doodle-items {
+  height: 499px;
+  left: 195px;
+  position: absolute;
+  top: 0;
+  width: 665px;
+}
+
+.index .group {
+  height: 46px;
+  left: 292px;
+  position: absolute;
+  top: 241px;
+  width: 37px;
+}
+
+.index .attached-files-pana {
+  height: 621px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 600px;
+}
+
+.index .lightbulb-2 {
+  height: 100px;
+  left: 495px;
+  position: absolute;
+  top: 167px;
+  width: 78px;
+}
+
+.index .vector-4 {
+  height: 195px;
+  left: 114px;
+  position: absolute;
+  top: 604px;
+  width: 156px;
+}
+
+.index .projects-page {
+  height: 898px;
+  left: 0;
+  position: absolute;
+  top: 1650px;
+  width: 1535px;
+}
+
+.index .contact-page {
+  background-color: #222831;
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 2529px;
+  width: 1535px;
+}
+
+.index .overlap-3 {
+  height: 886px;
+  left: 57px;
+  position: absolute;
+  top: 60px;
+  width: 735px;
+}
+
+.index .ellipse-3 {
+  background-color: #00000080;
+  border-radius: 205.5px/12px;
+  height: 24px;
+  left: 138px;
+  position: absolute;
+  top: 689px;
+  width: 411px;
+}
+
+.index .vector-5 {
+  height: 203px;
+  left: 58px;
+  position: absolute;
+  top: 683px;
+  width: 183px;
+}
+
+.index .angle-brace {
+  height: 38px;
+  left: 77px;
+  position: absolute;
+  top: 439px;
+  width: 51px;
+}
+
+.index .working-pana {
+  height: 781px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 735px;
+}
+
+.index .mail {
+  height: 72px;
+  left: 1200px;
+  position: absolute;
+  top: 783px;
+  width: 75px;
+}
+
+.index .keyboard-2 {
+  height: 115px;
+  left: 820px;
+  position: absolute;
+  top: 60px;
+  width: 153px;
+}
+
+.index .footer-page {
+  background-color: #222831;
+  height: 400px;
+  left: 0;
+  position: absolute;
+  top: 3429px;
+  width: 1535px;
+}
